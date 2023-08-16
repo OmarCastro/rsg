@@ -1,0 +1,1 @@
+document.body.innerHTML = '<div class="it-works">JS Works!!</div>'
